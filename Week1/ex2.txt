@@ -1,0 +1,15 @@
+    1  mkdir ~/week1
+    2  mkdir ~/Ilnur
+    3  ls
+    4  cd ~/week1
+    5  ls /usr/bin -r | grep gcc > ex1.txt
+    6  ls
+    7  cat ex1.txt 
+    8  cd ..
+    9  cd Ilnur
+   10  cd ..
+   11  cd Ilnur/
+   12  ls /usr/bin -r | grep gcc > ex1.txt
+   13  cat ex1.txt
+   14  history
+   15  history > ex2.txt
