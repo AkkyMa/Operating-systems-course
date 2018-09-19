@@ -3,7 +3,7 @@
 #include <pthread.h>
 int pthread_yield(void*);
 
-#define buffer_size 10
+#define buffer_size 12
 
 int buffer[buffer_size];
 int count = 0;
