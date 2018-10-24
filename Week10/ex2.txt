@@ -1,0 +1,2 @@
+/home/cosmodog/Operation-systems-course/Week1/file.txt
+/home/cosmodog/Operation-systems-course/Week10/_ex2.txt
